@@ -1,0 +1,24 @@
+{
+    "name": "superlyons/mptt",
+    "description": "MPTT; Modified Preorder Tree Traversal PHP Code Implement.",
+    "keywords": ["yii2","extension","mptt","tree","php"],
+    "license": "GPL",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "2.0.8",
+        "superlyons/yii2-id-generator": "dev-master"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "superlyons\\mptt\\": ""
+        }
+    },
+
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
