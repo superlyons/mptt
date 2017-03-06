@@ -25,7 +25,7 @@ Installation
 
 ### Install With Composer
 
-安装这个扩展的首选方式是通过 [composer](http://getcomposer.org/download/). (注意: 目前未发布到Composer)
+安装这个扩展的首选方式是通过 [composer](http://getcomposer.org/download/). 
 
 ```
 php composer.phar require superlyons/mptt "dev-master"
